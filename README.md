@@ -1,8 +1,9 @@
-# Should a Borrower Issue Short or Long Debt?
+# Pricing Certainty: Short vs Long Debt in US Treasury Issuance
 
 **A Monte Carlo cost-risk study of US Treasury funding**
 
 ---
+Sohini Mukherjee | PhD Candidate in Mathematics, Stony Brook University
 
 ## The question
 
@@ -67,7 +68,7 @@ You need Python 3.10 or later.
 
 ```bash
 git clone https://github.com/sohinimk/short-vs-long-treasury-debt.git
-cd /home/short-vs-long-treasury-debt
+cd short-vs-long-treasury-debt
 pip install -r requirements.txt
 jupyter notebook treasury_debt_issuance.ipynb
 ```
